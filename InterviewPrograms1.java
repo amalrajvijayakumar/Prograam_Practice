@@ -32,22 +32,26 @@ public class InterviewPrograms1 {
 	}
 }
 
-//Interview Program  Practice
-//
-//Test case 1 
-//
-//N=6; 
-// X= 4;  Y= 10
-//(X<Y)
-//
-//A  = 4, 3, 7, 11, 50, 1
-//
-//Output = 7;
-//
-//Test case 2 
-//
-//X= 10;   Y = 14
-//
-//output = 11;
+			// For Understanding Purpose 
+				//Question
+				//VVVVVVV
+
+				//Interview Program  Practice
+				//
+				//Test case 1 
+				//
+				//N=6; 
+				// X= 4;  Y= 10
+				//(X<Y)
+				//
+				//A  = 4, 3, 7, 11, 50, 1
+				//
+				//Output = 7;
+				//
+				//Test case 2 
+				//
+				//X= 10;   Y = 14
+				//
+				//output = 11;
 
 
