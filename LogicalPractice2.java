@@ -20,7 +20,7 @@ public class LogicalPractice2 {
 		 	}
 		 }
 		 else
-			 System.out.println("condition mismaatch");
+			 System.out.println("condition mismatch");
 			 
 		}
 	}
